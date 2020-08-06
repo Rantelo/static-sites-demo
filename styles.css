@@ -1,6 +1,9 @@
 body {
-    background: #cbebff;
+    background-color: #b4beff;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+img {
+    width: 400px;
 }
